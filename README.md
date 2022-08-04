@@ -3,4 +3,4 @@
 
 ## The video from where I studied
 
-[https://www.youtube.com/watch?v=aVQJGr2J8io&t=1202s&ab_channel=JavaScriptMastery](https://www.youtube.com/watch?v=aVQJGr2J8io&t=1202s&ab_channel=JavaScriptMastery)
+[https://www.youtube.com/watch?v=Wn_Kb3MR_cU&t=11269s&ab_channel=JavaScriptMastery](https://www.youtube.com/watch?v=Wn_Kb3MR_cU&t=11269s&ab_channel=JavaScriptMastery)
